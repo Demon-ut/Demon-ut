@@ -1,4 +1,6 @@
-# 💫 About Me:
+#👋 Bienvenue sur mon GitHub
+
+# 💫 A propos:
 🔭 Je travaille actuellement sur :<br><br>    Un jeu de rythme 🎵<br>    Un RPG<br>    Un platformer<br>    Une application de gestion de stock (Stock & Style) 👕<br>    Des mods Minecraft Bedrock avec l'API 🛠️<br><br>👯 Je cherche à collaborer sur :<br><br>    Des projets de développement web, surtout avec Go<br>    Le développement de jeux (avec Godot)<br>    Des assets pour de la 2D<br><br>🤝 Je cherche de l'aide avec :<br><br>    Comprendre et apprendre le GDScript<br>    Le Golang<br>    Le C++<br><br>🌱 Je suis en train d'apprendre :<br><br>    Le Golang<br>    Le C++ (POO)<br>    Le GDScript<br>    Le design de jeux (Aseprite)<br><br>💬 Demande-moi à propos de :<br><br>    Développement de jeux, Godot, ou GDScript<br>    Création de mods ou des projets de programmation<br>    Conseils ou discussions sur le développement de jeux vidéo<br>    Le Golang et son utilisation dans les projets<br><br>⚡ Fun fact :<br><br>    Je suis passionné par les jeux vidéo (Cod, UT2004, Quake et bientôt mes propres jeux !)
 
 
